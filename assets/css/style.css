@@ -1161,6 +1161,7 @@ footer .footer-bottom .container .copyright {
   transform: translateX(350px);
   transition: 0.3s;
   transition-delay: 0.3s;
+  overflow-y: scroll;
   cursor: auto;
 }
 .side-bar-menu-section .side-bar.open {
